@@ -1,4 +1,4 @@
 <?php 
-    include_once("project/index.html");
-    header( 'Location: project/index.html' ) ;
+    include_once("Project/index.html");
+    header( 'Location: Project/index.html' ) ;
 ?> 
